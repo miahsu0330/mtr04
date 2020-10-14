@@ -1,5 +1,5 @@
 <?php
 
-    echo 'hello, world'
+    echo '程式導師實驗計畫第四期作業'
 
 ?>
